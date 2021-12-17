@@ -58,21 +58,21 @@ lessons:
     type: episode
     branch: gh-pages
     date: 31 December 2021
-    start-time: 13:00 am
+    start-time: 1:00 pm
 
   - title: Building Programs with Python
     gh-name: python-novice
     type: episode
     branch: gh-pages
     date: 1 January 2022
-    start-time: 9:00
+    start-time: 9:00 am
 
   - title: Managing Academic Software Development
     gh-name: project-novice
     type: episode
     branch: gh-pages
     date: 1 January 2022
-    start-time: 13:00 am
+    start-time: 1:00 pm
 
 #  - title: Best Practices in Data Organisation Using Spreadsheets
 #    gh-name: spreadsheets
