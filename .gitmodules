@@ -7,6 +7,10 @@
 	path = submodules/git-novice
 	url = https://github.com/Southampton-RSG-Training/git-novice.git
 	branch = gh-pages
+[submodule "submodules/python-novice"]
+	path = submodules/python-novice
+	url = https://github.com/Southampton-RSG-Training/python-novice.git
+	branch = gh-pages
 [submodule "submodules/project-novice"]
 	path = submodules/project-novice
 	url = https://github.com/Southampton-RSG-Training/project-novice.git
