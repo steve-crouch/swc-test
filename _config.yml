@@ -17,30 +17,32 @@ title: "FIXME Workshop Title"
 
 # Specify the location of the workshop
 # TODO: needs documenting a lot better
-venue: "FIXME"           # name of location
-address: "FIXME"         # address of location
-country: "FIXME"         # e.g. gb
-language: "FIXME"        # e.g. en
+venue: "A Test Venue"           # name of location
+address: "Online"         # address of location
+country: "gb"         # e.g. gb
+language: "en"        # e.g. en
 latitude: "50.909698"    # latitude of location (Soton: 50.909698)
 longitude: "-1.404351"   # longitude of location (Soton: -1.404351)
 
 # Specify the start and end date of the workshop
-humandate: "FIXME"      # e.g. "6th August"
-humantime: "FIXME"      # e.g. "09:00-17:00"
-startdate: FIXME        # e.g. YYYY-MM-DD
-enddate: FIXME
+humandate: "31st December"      # e.g. "6th August"
+humantime: "09:00-17:00"      # e.g. "09:00-17:00"
+startdate: 2021-12-31        # e.g. YYYY-MM-DD
+enddate: 2022-01-01
 
 # Specify the details of the instructors and helpers
 # Can be list, or single string
 instructor:
-  - "Instructor 1"
-  - "Instructor 2"
+  - "Pip Grylls"
+  - "Steve Crouch"
+  - "James Graham"
 instructor-email:
-  - "instructor1@domain.com"
-  - "instructor2@domain.com"
+  - "pjg@soton.ac.uk"
+  - "s.crouch@software.ac.uk"
+  - "j.graham@software.ac.uk"
 helper:
-  - "Helper 1"
-  - "Helper 2"
+  - "Ed Parkinson"
+  - "Sam Mangham"
 
 # Details about the lessons
 lessons:
@@ -58,12 +60,12 @@ lessons:
     date: 9 January 2022
     start-time: 8:30 am
 
-#  - title: Building Programs with Python
-#    gh-name: python-novice
-#    type: episode
-#    branch: gh-pages
-#    date: 10 January 2022
-#    start-time: 15:00
+  - title: Building Programs with Python
+    gh-name: python-novice
+    type: episode
+    branch: gh-pages
+    date: 10 January 2022
+    start-time: 15:00
 
   - title: Managing Academic Software Development
     gh-name: project-novice
