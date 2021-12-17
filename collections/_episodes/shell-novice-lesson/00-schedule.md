@@ -3,4 +3,4 @@ title: Lesson Schedule
 slug: shell-novice-schedule
 layout: schedule
 ---
-{% include syllabus.html  name="shell-novice" start_time=630 %}
+{% include syllabus.html  name="shell-novice" start_time=540 %}
